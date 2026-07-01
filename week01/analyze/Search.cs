@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 
 public static class Search {
+//TEST
     public static void Run() {
         Console.WriteLine("{0,15}{1,15}{2,15}{3,15}{4,15}", "n", "sort1-count", "sort2-count", "sort1-time",
             "sort2-time");
